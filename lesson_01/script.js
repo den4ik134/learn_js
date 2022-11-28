@@ -15,4 +15,3 @@ const secondLastRating = prompt('На сколько его оцените?', ''
 
 personalMovieDB.movies[firstLastMovie] = firstLastRating;
 personalMovieDB.movies[secondLastMovie] = secondLastRating;
-
