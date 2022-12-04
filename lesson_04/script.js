@@ -63,27 +63,3 @@ const personalMovieDB = {
 	}
 };
 
-const shoppingMallData = {
-    shops: [
-        {
-            width: 10,
-            length: 5 //250 50
-        },
-        {
-            width: 15,
-            length: 7 //525 105
-        },
-        {
-            width: 20,
-            length: 5	//500 100
-        },
-        {
-            width: 8,
-            length: 10	//400 80
-        }
-    ],
-    height: 5, // 1675 
-    moneyPer1m3: 30,
-    budget: 50000
-};
-
