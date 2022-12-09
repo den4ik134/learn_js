@@ -24,7 +24,7 @@ const movieDB = {
     ]
 };
 
-const promoAdvs = document.querySelectorAll('.promo__adv>img');
+const promoAdvs = document.querySelectorAll('.promo__adv img');
 const promoGenre = document.querySelector('.promo__genre');
 const promoBg = document.querySelector('.promo__bg');
 const movieList = document.querySelector('.promo__interactive-list');
